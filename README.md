@@ -1,16 +1,28 @@
-## Hi there 👋
+## About
+Hey, I'm Jamie (plxl; short for Plexal)
 
-<!--
-**plxl/plxl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm fascinated by video game design, networking, and building optimal, compact computers! I love learning new technologies and finding ways to implement them into my every day life.
 
-Here are some ideas to get you started:
+### Smart Home Setup
+I use a Home Assistant Yellow running HAOS in my room to run automations and communicate with my smart peripherals:
+- [zigbee] Philips Hue (Akari Downlights + Lamp Bulbs)
+- [zigbee] Temperature & Humidity Sensor
+- [usb] Webcam CCTV
+- [local tuya] LED Light Strip
+- [network] HVAC
+- [network] CCTV
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Media Server
+I have an open-air server with a Ryzen 9 5950X running Proxmox with a variety of containers and virtual machines, some key ones being:
+- OpenVPN
+- Debian Fileserver
+- Jellyfin
+- Video game multiplayer servers
+
+#
+Here are some of my work-in-progress repositories:
+
+[![dtm-visualiser](https://github-readme-stats.vercel.app/api/pin/?username=plxl&repo=dtm-visualiser&theme=tokyonight)](https://github.com/plxl/dtm-visualiser)
+[![Pikcards](https://github-readme-stats.vercel.app/api/pin/?username=plxl&repo=Pikcards&theme=tokyonight)](https://github.com/plxl/Pikcards)
+#
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=plxl&layout=compact&hide_progress=true&theme=tokyonight)
