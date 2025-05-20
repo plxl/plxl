@@ -17,6 +17,7 @@ I have an open-air server with a Ryzen 9 5950X running Proxmox with a variety of
 - OpenVPN
 - Debian Fileserver
 - Jellyfin
+- [Apache web server](https://plxl.ddns.net)
 - Video game multiplayer servers
 
 #
