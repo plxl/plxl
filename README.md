@@ -27,4 +27,4 @@ Here are some of my work-in-progress repositories:
 [![Pikcards](https://github-readme-stats.vercel.app/api/pin/?username=plxl&repo=Pikcards&theme=tokyonight)](https://github.com/plxl/Pikcards)
 [![Pikcards](https://github-readme-stats.vercel.app/api/pin/?username=plxl&repo=KStream&theme=tokyonight)](https://github.com/plxl/KStream)
 #
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=plxl&layout=compact&hide_progress=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=plxl&layout=compact&hide_progress=false&theme=tokyonight)
