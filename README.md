@@ -24,8 +24,8 @@ I have an open-air server with a Ryzen 9 5950X running Proxmox with a variety of
 Here are some of my work-in-progress repositories:
 
 [![dtm-visualiser](https://github-readme-stats.vercel.app/api/pin/?username=plxl&repo=dtm-visualiser&theme=tokyonight)](https://github.com/plxl/dtm-visualiser)
-[![dtm-visualiser](https://github-readme-stats.vercel.app/api/pin/?username=plxl&repo=mpegui&theme=tokyonight)](https://github.com/plxl/mpegui)
+[![mpegui](https://github-readme-stats.vercel.app/api/pin/?username=plxl&repo=mpegui&theme=tokyonight)](https://github.com/plxl/mpegui)
 [![Pikcards](https://github-readme-stats.vercel.app/api/pin/?username=plxl&repo=Pikcards&theme=tokyonight)](https://github.com/plxl/Pikcards)
-[![Pikcards](https://github-readme-stats.vercel.app/api/pin/?username=plxl&repo=KStream&theme=tokyonight)](https://github.com/plxl/KStream)
+[![website](https://github-readme-stats.vercel.app/api/pin/?username=plxl&repo=website&theme=tokyonight)](https://github.com/plxl/website)
 #
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=plxl&layout=compact&hide_progress=false&theme=tokyonight)
