@@ -17,4 +17,4 @@ I currently have two home servers; one I use exclusively for Home Assistant, and
 ---
 <br>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=plxl&layout=compact&hide_progress=false&theme=tokyonight)
+![Top Languages](https://github-readme-stats-henna-nine-79.vercel.app/api/top-langs/?username=plxl&layout=compact&hide_progress=false&theme=tokyonight)
